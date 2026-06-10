@@ -27,3 +27,5 @@ To create an interactive reporting solution that enables quick analysis of teach
 
 ## Author
 Aditya Pandey
+<img width="591" height="453" alt="image" src="https://github.com/user-attachments/assets/5cb0be05-c683-4d4a-a879-4efcb423e08d" />
+
